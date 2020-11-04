@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![ashish singh](https://github.com/ashish2179/ashish2179/blob/main/ashish.png)
+
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Causality
 - 👯 I’m looking to collaborate on Data Science
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/Ashish_Singh12
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![ashish singh](https://github.com/ashish2179/ashish2179/blob/main/ashish.png)
