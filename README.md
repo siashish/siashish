@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ashish2179/ashish2179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**siashish/siashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/siAshish
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=siashish)](https://github.com/siashish/github-profile-trophy)
+
