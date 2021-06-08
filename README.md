@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 -->
+## Developer-Investor-Speaker
+
+Working on AI-IOT based Vaccine Carrier(Zedblox ActiPod) that help the last mile people to get the vaccine in correct from not in bad condition due to inefficiency of last mile temperature  control. Graduated from Panjab University
+
+Skills: Javascript / Java8+ / Python / NodeJs / SQL / MongoDB / REACT / JS / HTML / CSS / Docker / Git / Design patterns / Jira / Vim / AWS cloud
 
 - 🔭 I’m currently working on AI-IOT based Vaccine Carrier(Zedblox ActiPod)
 - 🌱 I’m currently learning Causality
