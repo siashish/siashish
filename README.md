@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siashish)](https://github.com/siashish/github-profile-trophy)
 
+
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=siashish)](https://github.com/siashish/github-readme-stats)
+
+
