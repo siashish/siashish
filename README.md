@@ -28,7 +28,9 @@ Working on <a href='https://zedblox.com/'>AI-IOT based Vaccine Carrier(Zedblox A
 
 ## Find me around the web 🌍
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/siashish/) [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='40'>](https://t.me/siAshish) [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/Ashish_Singh_12)
+![<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/siashish/) 
+![<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='40'>](https://t.me/siAshish) 
+![<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/Ashish_Singh_12)
 
 ## My skills 🚀
 
