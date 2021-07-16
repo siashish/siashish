@@ -21,10 +21,12 @@ Skills: Javascript / Java8+ / Python / NodeJs / SQL / MongoDB / REACT / JS / HTM
 Working on <a href='https://zedblox.com/'>AI-IOT based Vaccine Carrier(Zedblox ActiPod)</a>  that help the last mile people to get the vaccine in correct from not in bad condition due to inefficiency of last mile temperature  control. Graduated from Panjab University
 
 - 🔭 I’m currently working on AI-IOT based Vaccine Carrier(Zedblox ActiPod)
-- 🌱 I’m currently learning Causality
+- 🌱 I’m currently learning people skills
 - 👯 I’m looking to collaborate on OpenSource MERN stack Projects
 - 💬 Ask me about psychology
-- 📫 How to reach me: 
+- 📫 How to reach me: [ashishsingh.in](https://ashishsingh.in/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Big fan of Stock Market
 
 ## Find me around the web 🌍
 
