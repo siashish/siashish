@@ -24,7 +24,7 @@ Working on <a href='https://zedblox.com/'>AI-IOT based Vaccine Carrier(Zedblox A
 - 🌱 I’m currently learning people skills
 - 👯 I’m looking to collaborate on OpenSource MERN stack Projects
 - 💬 Ask me about psychology
-- 📫 How to reach me: [ashishsingh.in](https://ashishsingh.in/)
+- 📫 How to reach me: <!--[ashishsingh.in](https://ashishsingh.in/)-->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of Stock Market
 
