@@ -18,15 +18,15 @@ Skills: Javascript / Java8+ / Python / NodeJs / SQL / MongoDB / REACT / JS / HTM
 -->
 ## Developer-Investor-Speaker
 
-Working on <a href='https://zedblox.com/'>AI-IOT based Vaccine Carrier(Zedblox ActiPod)</a>  that help the last mile people to get the vaccine in correct from not in bad condition due to inefficiency of last mile temperature  control. Graduated from Panjab University
+Working on <a href='[https://zedblox.com/](https://www.bosch-mobility.com/en/mobility-topics/software-defined-vehicle/)'>Software Defined Vehicle</a> at BOSCH to make next-gen cars and fully connected with network and efficient. Graduated from Panjab University
 
-- 🔭 I’m currently working on AI-IOT based Vaccine Carrier(Zedblox ActiPod)
+- 🔭 I’m currently working on Software Defined Vehicle
 - 🌱 I’m currently learning people skills
-- 👯 I’m looking to collaborate on OpenSource MERN stack Projects
+- 👯 I’m looking to collaborate on OpenSource Go/RUST Projects
 - 💬 Ask me about psychology
 - 📫 How to reach me: <!--[ashishsingh.in](https://ashishsingh.in/)-->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Big fan of Stock Market
+- ⚡ Fun fact: Big fan of the Stock Market
 
 ## Find me around the web 🌍
 
