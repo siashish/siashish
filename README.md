@@ -18,7 +18,7 @@ Skills: Javascript / Java8+ / Python / NodeJs / SQL / MongoDB / REACT / JS / HTM
 -->
 ## Developer-Investor-Speaker
 
-Working on <a href='[https://zedblox.com/](https://www.bosch-mobility.com/en/mobility-topics/software-defined-vehicle/)'>Software Defined Vehicle</a> at BOSCH to make next-gen cars and fully connected with network and efficient. Graduated from Panjab University
+Working on <a href='https://zedblox.com/](https://www.bosch-mobility.com/en/mobility-topics/software-defined-vehicle/'>Software Defined Vehicle</a> at BOSCH to make next-gen cars and fully connected with network and efficient. Graduated from Panjab University
 
 - 🔭 I’m currently working on Software Defined Vehicle
 - 🌱 I’m currently learning people skills
